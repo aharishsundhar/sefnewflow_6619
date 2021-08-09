@@ -1,0 +1,7 @@
+{
+  "name": "sefnewflow",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
